@@ -1,0 +1,16 @@
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\obj\Debug\netstandard2.0\PokeQualquerCoisa.csproj.AssemblyReference.cache
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\obj\Debug\netstandard2.0\PokeQualquerCoisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\obj\Debug\netstandard2.0\Page.xaml.g.cs
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\obj\Debug\netstandard2.0\PokeQualquerCoisa.AssemblyInfoInputs.cache
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\obj\Debug\netstandard2.0\PokeQualquerCoisa.AssemblyInfo.cs
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\obj\Debug\netstandard2.0\PokeQualquerCoisa.csproj.CoreCompileInputs.cache
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\obj\Debug\netstandard2.0\PokeQualquerCoisa.dll
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\obj\Debug\netstandard2.0\ref\PokeQualquerCoisa.dll
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\obj\Debug\netstandard2.0\PokeQualquerCoisa.pdb
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\bin\Debug\netstandard2.0\PokeQualquerCoisa.deps.json
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\bin\Debug\netstandard2.0\PokeQualquerCoisa.dll
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\bin\Debug\netstandard2.0\ref\PokeQualquerCoisa.dll
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\bin\Debug\netstandard2.0\PokeQualquerCoisa.pdb
+C:\Users\brunops\Desktop\PokeQualquerCoisa\PokeQualquerCoisa\PokeQualquerCoisa\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PokeQualquerCoisa.Page">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+
+
+                <Label Text="{Binding nome}" HorizontalOptions="CenterAndExpand" FontSize="36" />
+
+                <Image Source="{Binding url}" Aspect="AspectFit" />
+
+                <Label Text="{Binding id}" FontSize="25"/>
+
+                <Label Text="{Binding tipo}" FontSize="25"/>
+
+                <Label Text="{Binding peso}" FontSize="25"/>
+
+                <Label Text="{Binding altura}" FontSize="25"/>
+                <ScrollView>
+                    <Grid Margin="10,10,10,10" x:Name="tabela">
+                        
+                    </Grid>
+                </ScrollView>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
